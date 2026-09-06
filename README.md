@@ -38,9 +38,7 @@ Converte la tensione di rete a 230V AC in un'uscita DC regolabile fino a 30V e 1
 
 ---
 
-## 📎 Attachments & Documentation / Allegati e Documentazione
-
-All technical documentation, complete specifications, schematic files, and 3D CAD models are available directly in this repository:
+## 🔌 Media & Resources / Materiale e Documentazione
 
 * 📄 **Datasheet (PDF):** [SGRT_Power_Supply_Datasheet.pdf](https://github.com/user-attachments/files/31877152/SGRT_Power_Supply_Datasheet.pdf) — Complete technical specs, pinout, circuit schematics, and mechanical dimensions
 
