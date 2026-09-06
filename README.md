@@ -45,4 +45,4 @@ Converte la tensione di rete a 230V AC in un'uscita DC regolabile fino a 30V e 1
 ---
 
 ### Author & Team
-Designed for **Sapienza Gladiators Racing Team (SGRT Electronics)**.
+Designed by **Francesco Miletto** for **Sapienza Gladiators Racing Team (SGRT Electronics)**.
